@@ -1,2 +1,2 @@
-# My-First-Repo
-My first repositary
+# hello-world
+This repository is for practicing the GitHub Flow
